@@ -6,7 +6,14 @@ output:
     toc_float: true
 ---
 
-# This is Alana's awesome website
+# Welcome to Alana's website!
+
+This website is the latest project in my journey learning to code in R! The course P8105 at the Mailman School of Public Health has been extremely useful in learning how to code and better anaylze and present data. 
+
+Insert image of mailman school? Insert image of me here and then about page giving academic and professional experience. (resume)
+include a link in the nav bar to my linkedin? 
+how to link stylistically the about page on this homepage? 
+
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 One important feature of your site will be hyperlinks. The general format for links is [text for link](address.of.link). So, to link to my favorite tool for data science, I’d use [this](google.com).
