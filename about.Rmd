@@ -6,4 +6,12 @@ output:
     toc_float: true
 ---
 
-I am a first-generation college graduate and first-year PhD student in the Environmental Health Sciences department at Columbia University. After finishing my BS in Cell and Developmental Biology and a fifth year studying public health through the Take 5 Scholars program, I am looking forward to merging my two passions throughout this PhD program. I plan to study Environmental Epigenetics and Molecular Mechanisms with the hope to gain better understandings of how physical and non-physical environmental stressors impact the epigenome and ultimately health and well-being. 
+## PhD Student in Environmental Health Sciences 
+I am a first-generation college graduate and first-year PhD student in the Environmental Health Sciences department at Columbia University. After finishing my BS in Cell and Developmental Biology and a fifth year studying public health through the Take 5 Scholars program at the University of Rochester, I am looking forward to merging my two passions throughout this PhD program. I plan to study Environmental Epigenetics and Molecular Mechanisms with the hope to gain better understandings of how physical and non-physical environmental stressors impact the epigenome and ultimately health and well-being. 
+
+## Education
+* B.S. in Cell and Developmental Biology - University of Rochester (2022)
+
+### Professional Experience
+* Research Assistant in the Dr. Elaine Sia Lab in the Department of Biology at University of Rochester (2019-2022)
+* NSF-REU Research Intern in the Dr. Tovah Day Lab in the Department of Biology at Northeastern University (2021)

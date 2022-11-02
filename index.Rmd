@@ -7,16 +7,14 @@ output:
 ---
 
 # Welcome to Alana's website!
+ <img src="IMG_2503.jpeg"> 
 
-This website is the latest project in my journey learning to code in R! The course P8105 at the Mailman School of Public Health has been extremely useful in learning how to code and better anaylze and present data. 
+This website is the latest project in my journey learning to code in R! You can find more information about me [here](about.html)!
 
-Here is a link to my [plot_ly dashboard](plot_webpage.html)! 
+## Flexdashboard 
+Here is a link to my [plot_ly dashboard](plot_webpage.html). 
 
-Insert image of mailman school? Insert image of me here and then about page giving academic and professional experience. (resume)
-include a link in the nav bar to my linkedin? 
-how to link stylistically the about page on this homepage? 
+## Get to know more about me
 
-Once you have another page (e.g. about.html) you need to link to it from your home page (e.g. using use [about](about.html)), or no one will be able to find it.
-
-Sometimes you want to add images – pictures you’ve taken or found on the internets, rather than things that are generated from analyses. This is a bit more involved than other things you might want to do. RMD’s default image settings (using ![](image.jpg)) aren’t great. I often use a line of HTML: <img src="images/image.jpg" style="width:75%"> 
+You can find more information about me [here](about.html)!
 
